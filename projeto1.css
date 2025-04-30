@@ -81,11 +81,9 @@ header {
     font-size: 28px;
     font-weight: 700;
     cursor: pointer;
-body
-   {
     margin-bottom: 50px;
    }
-   }
+   
 
 
 @media screen and (max-width:650px){
